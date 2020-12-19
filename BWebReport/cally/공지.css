@@ -1,0 +1,17 @@
+#back{height:1000px;}
+section{height:1000px;}
+#back a{
+    font-size:2em;
+    text-decoration:none;
+    color:black;
+    border-top:2px solid black;
+    border-bottom:2px solid black;
+    display:block;
+    width:70%;
+    margin:2% 3%;
+    text-align:left;
+    padding-left:10%
+}
+#back h1{
+    margin-bottom:7%
+}

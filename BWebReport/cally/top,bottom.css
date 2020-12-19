@@ -1,0 +1,20 @@
+body{margin:0px;}
+header{display: inline;}
+#logo{
+    padding:30px 250px 20px; float:left;
+    width:150px; height:90px
+}
+nav{
+    font-family:Sans-Serif; font-size :16em; font-weight: bold;
+    display:block; float:right;
+    padding-top: 90px; padding-right: 250px;
+    font-size:20px; display:inline;
+    }
+nav a:link{text-decoration:none;color:black;}
+nav a:visited{color:black;}
+footer div{
+    background-color:grey; height:70px; width:100%;
+    color:white; text-align:center; 
+    padding-top:20px; position:fixed;
+    bottom:0px;
+}
