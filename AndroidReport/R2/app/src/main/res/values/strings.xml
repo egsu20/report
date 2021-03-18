@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">R2</string>
+    <string name="strBtn1">Car Information</string>
+    <string name="strBtn2">Speed Up</string>
+    <string name="strBtn3">Speed Down</string>
+
+</resources>
